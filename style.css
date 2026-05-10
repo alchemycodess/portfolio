@@ -169,8 +169,8 @@ h2 {
 
 .project-card:hover {
     border-color: var(--green-main);
-    transform: translateY(-3px);
-    box-shadow: 0 0 20px rgba(0, 255, 136, 0.88);
+    transform: translateY(-1px);
+    /* box-shadow: 0 0 20px rgba(0, 255, 136, 0.88); */
 }
 
 .project-img {
